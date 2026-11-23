@@ -1,0 +1,3 @@
+nc: 3
+names: ['pistol', 'rifle', 'shotgun']
+# Set train/val paths to your complete dataset before training.
